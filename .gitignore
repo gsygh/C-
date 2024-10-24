@@ -1,0 +1,6 @@
+/.vscode
+/test/bin
+/test/obj
+/test/.csproj
+/test.sln
+/test/test.csproj
